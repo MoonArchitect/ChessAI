@@ -1,8 +1,14 @@
 # ChessAI (Archived)
 
-First attempt on creating chess AI
+First attempt on creating chess AI.  
+Move generation is done using ChessLib by rudzen (https://github.com/rudzen/ChessLib)
+
+### Performance 
+ - 1C Board Evaluations ~12M/s 
+ - 1C Moves Generation ~500k/s
 
 ### Methods
+ - Multithreaded:
  - [x] Minimax
  - [x] Negamax
  - [x] Alpha-Beta  
