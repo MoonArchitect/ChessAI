@@ -1,4 +1,4 @@
-# ChessAI (Archived)
+# ChessAI C# (Archived)
 
 First attempt on creating chess AI.  
 Move generation is done using ChessLib by rudzen (https://github.com/rudzen/ChessLib)
