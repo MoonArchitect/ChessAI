@@ -27,3 +27,18 @@ Move generation is done using ChessLib by rudzen (https://github.com/rudzen/Ches
  - [x] Futility Pruning
  - [x] Transposition Table using Zobrist hashing   
  - [x] MVV-LVA (Most Valuable Victim - Least Valuable Aggressor)
+
+### Evaluation
+ - [x] Material Evaluation
+ - [x] Piece-Square Tables
+ - [x] Pawn Structures
+ - Isolated Pawns
+ - Passed Pawns
+ - Open Pawns
+ - Defended Pawns
+ - Bakcward Pawns
+ - [x] King Safety
+ - [x] Rook on 7th Rank
+ - [x] Rooks Defence
+ - [x] Rook/Bishop/Knight Pair
+   
