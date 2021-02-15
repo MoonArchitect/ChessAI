@@ -3,9 +3,9 @@
 First attempt on creating chess AI.  
 Move generation is done using ChessLib by rudzen (https://github.com/rudzen/ChessLib)
 
-### Performance 
- - 1C Board Evaluations ~12M/s 
- - 1C Moves Generation ~500k/s
+### Performance (Ryzen 3900x, 1 core) 
+ - Board Evaluation ~12M/s 
+ - Move Generation  ~500k/s
 
 ### Methods
  - Multithreaded:
