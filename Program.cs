@@ -29,9 +29,9 @@ namespace testGame
             int nThreads = 1;
 
             var move = new MoveEvaluator(str, depth, "Original", GlobalSeed);
-            Console.WriteLine(move.EvalSpeed(20000));
-            Console.WriteLine(move.MoveGenSpeed(20000));
-            Console.ReadKey();
+            //Console.WriteLine(move.EvalSpeed(20000));
+            //Console.WriteLine(move.MoveGenSpeed(20000));
+            //Console.ReadKey();
 
             while (true)
             {
